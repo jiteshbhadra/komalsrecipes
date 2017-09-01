@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-03-15T11:32:38+00:00\n"
+"Last-Translator: jkappa <gmalavolta@gmail.com>\n"
+"Last-Translator: DipSTF <www.stf.uniroma2.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: Italy\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "What is the title to be displayed in the table of content?"
+msgstr "Qual è il titolo da visualizzare nel Table of Content?"
+
+msgid "Title of the table of content:"
+msgstr "Titolo del Sommario"
+
+msgid "Add prefix in your title:"
+msgstr "Aggiungi un prefisso per il titolo"
+
+msgid "If you leave the field blank, nothing will be added!"
+msgstr "Se lasci vuoto, nulla verrà aggiunto"
+
+msgid "Note that if you want to display the number of level 2, just write %s ..."
+msgstr "Nota che se vuoi visualizzare il numero del livello 2, devi scrivere %s"
+
+msgid "Prefix of the level %s:"
+msgstr "Prefisso per il livello %s:"
+
+msgid "Parameters"
+msgstr "Parametri"
+
+msgid "Manage translations"
+msgstr "Gestisci la traduzione"
+
+msgid "Give feedback"
+msgstr "Invia un tuo commento"
+
+msgid "Display the table of content"
+msgstr "Visualizza il Sommario"
+
+msgid "If you want that the table of content appears in your post, just type: %s, that is all!"
+msgstr "Se vuoi che il Sommario compaia nei tuoi articoli devi solo inserire: %s, non serve altro!"
+
+msgid "General"
+msgstr "Generale"
+
+msgid "What is the first level?"
+msgstr "Qual&#039;è il primo livello"
+
+msgid "If you set this option to %s, then the first level would be %s!"
+msgstr "Se definisci l&#039;opzione %s, allora il tuo primo livello sarà %s!"
+
+msgid "Prefix of the first level:"
+msgstr "Prefisso per il primo livello"
+
+msgid "Prefix of the second level:"
+msgstr "Prefisso del secondo livello"
+
+msgid "Prefix of the third level:"
+msgstr "Prefisso del terzo livello"
+
+msgid "Prefix of the fourth level:"
+msgstr "Prefisso del quarto livello"
+
+msgid "Prefix of the fifth level:"
+msgstr "Prefisso del quinto livello"
+
+msgid "Customize the global visual appearance:"
+msgstr "Personalizza l&#039;aspetto generale"
+
+msgid "The HTML:"
+msgstr "l&#039;HTML"
+
+msgid "The default HTML is: %s"
+msgstr "Il codice HTML preimpostato è: %s"
+
+msgid "Please note that %s will be replaced with the given title of the table of content and %s will be replaced with the current chapter/section/etc. title"
+msgstr "Attenzione che se sostituisco %s con il titolo del Sommario e %s sarà sostituito con i titoli si capitolo/sezione/ecc."
+
+msgid "The CSS:"
+msgstr "il CSS"
+
+msgid "The default CSS is: %s"
+msgstr "il CSS preimpostato è: %s"
+
+msgid "Customize the visual appearance of the title:"
+msgstr "Personalizza l&#039;aspetto del titolo:"
+
+msgid "Customize the visual appearance of each entry in the TOC:"
+msgstr "Personalizza l&#039;aspetto di ogni singola voce del Sommario:"
+
+msgid "The indentation of the TOC (in pixels):"
+msgstr "Rientro del Sommario (in pixel):"
+
+msgid "The max font size:"
+msgstr "Dimensione massima del carattere:"
+
+msgid "The color of the upper level:"
+msgstr "Colore del livello superiore:"
+
+msgid "The color of the lower level:"
+msgstr "Colore del livello inferiore"
+
+msgid "The color of entry will be a transition color between these two colors (depending of their levels)."
+msgstr "Il colore della voce sarà una sfumatura fra questi due colori (dipende dai colori dei livelli)"
+
+msgid "Please add the # character before the code. If you do not know what code to use, please visit this website: %s"
+msgstr "Per favore aggiungi il carattere # prima del codice. Se non conosci il codice da utilizzare visita il sito: %s"
+
+msgid "Customize the visual appearance of each entry in the TOC (for Experts):"
+msgstr "Personalizza l&#039;aspetto di ogni voce del sommario (avanzato):"
+
+msgid "The CSS style of the first level:"
+msgstr "CSS per il primo livello"
+
+msgid "For instance, %s"
+msgstr "Per l&#039;istanza, %s"
+
+msgid "The CSS style of the second level:"
+msgstr "CSS per il secondo livello"
+
+msgid "The CSS style of the third level:"
+msgstr "CSS per il terzo livello"
+
+msgid "The CSS style of the fourth level:"
+msgstr "CSS per il quarto livello"
+
+msgid "The CSS style of the fifth level:"
+msgstr "CSS per il quinto livello"
+
+msgid "Other plugins"
+msgstr "Altri plugin"
+

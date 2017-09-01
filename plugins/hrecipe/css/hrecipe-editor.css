@@ -1,0 +1,54 @@
+
+
+/**
+ *   Try to get rid of these asap; replace with 
+ * as much WP-native styling as possible.  Once
+ * this is gone, try to eliminate the add_action
+ * hook for admin_print_styles in hrecipe.php.
+ */
+
+
+ul.tabs li {
+
+    display: inline;
+    line-height: 200%;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    white-space: nowrap;
+}
+
+
+ul.tabs.bottom {
+  background-color: transparent;
+  margin-top: 50px;
+  border: 0px;
+}
+
+
+
+ul.tabs li.btmtabs {
+  line-height: 200%;
+  background: transparent;
+  border:0px;
+  height:50px;
+}
+
+ul.tabs li.btmtabs a {
+  border: 1px solid #999;
+  border-bottom:1px solid #999;
+  width:50px;
+  font-size:11px;
+  text-align:center;
+  background-color:#ddd;
+  margin-bottom:10px;
+  float:left; display:inline;
+  margin-left:15px;
+}
+
+ul.tabs li.btmtabs a:hover {
+  background-color:#ccc;
+}
+
+

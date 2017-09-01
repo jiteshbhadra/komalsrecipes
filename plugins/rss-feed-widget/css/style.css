@@ -1,0 +1,106 @@
+@charset "utf-8";
+
+
+
+/* CSS Document */
+
+.widget_dock{
+
+    margin-top: 7px;
+
+    width: 92.5%;
+
+}
+
+.rfw_dock{
+
+    height: auto;
+
+    margin: 0;
+
+    padding: 0;
+
+    width: 100%;
+
+}
+
+.rfw_dock li{
+
+    color: #666666;
+
+    font-size: 16px;
+
+    height: 100%;
+
+    margin: 0;
+
+    text-align: left;
+
+    width: 100%;	
+
+    list-style: none;
+
+}
+
+.rfw_dock > li .feed_img,
+
+.rfw_dock > li .feed_img img {
+
+  float: left;
+
+  margin: 0;
+
+  padding: 0;
+
+  width: 100%;
+
+  height:auto;
+
+}
+
+.rfw_dock h3{    
+
+    font-size: 18px;
+
+    margin: 0 0 10px;
+
+    padding: 0;
+
+	text-align: center;
+
+}
+
+.rfw_dock h3 a{
+
+	font-size:16px;
+
+}
+
+.rss_url_area a{
+
+	float:right;
+
+	cursor:pointer;
+
+}
+
+.rfw-class .widget_dock li > div.text_div div{
+	display:none;
+}
+
+.rfw-class .widget_dock li img{
+	padding:0;
+	margin:0;
+}
+.rfw_list.rfw_dock li {
+	border-top: 1px solid #eee;
+	margin: 0 0 30px;
+	padding-top: 30px; 
+}
+.rfw_list.rfw_dock li:first-child{
+	padding-top:0;
+	border:0;
+}
+ul.rfw_dock.rfw_slider{
+	margin:0;
+}
